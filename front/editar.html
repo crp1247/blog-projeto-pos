@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Postagem</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html">Home</a>
+        <h1>Editar Postagem</h1>
+        <a href="postagem.html">Nova Postagem</a>
+        <a href="delete.html">Deletar</a>
+        
+    </header>
+    <main>
+        <form id="editForm">
+            <div>
+                <label for="title">Título:</label>
+                <input type="text" id="title" name="title" required>
+            </div>
+            <div>
+                <label for="description">Descrição:</label>
+                <textarea id="description" name="description" required></textarea>
+            </div>
+            <div>
+                <label for="professor">Professor:</label>
+                <input type="text" id="professor" name="professor" required>
+            </div>
+            <div>
+                <label for="categoria">Categoria:</label>
+                <input type="text" id="categoria" name="categoria" required>
+            </div>
+            <div>
+                <label for="stars">Estrelas (separadas por vírgula):</label>
+                <input type="text" id="stars" name="stars">
+            </div>
+            <div>
+                <label for="poster">Poster URL:</label>
+                <input type="url" id="poster" name="poster" required>
+            </div>
+            <button type="submit">Atualizar</button>
+        </form>
+        <div id="responseMessage"></div>
+    </main>
+    <script src="editar.js"></script>
+</body>
+</html>

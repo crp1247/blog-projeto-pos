@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deletar Postagem</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html">Home</a>
+        <h1>Deletar Postagem</h1>
+    </header>
+    <main>
+        <form id="deleteForm">
+            <div>
+                <label for="postId">ID da Postagem:</label>
+                <input type="text" id="postId" name="postId" required>
+            </div>
+            <button type="submit">Deletar</button>
+        </form>
+        <div id="responseMessage"></div>
+    </main>
+    <script src="delete.js"></script>
+</body>
+</html>
