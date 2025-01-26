@@ -1,0 +1,24 @@
+2025--01--05 16:39:16:390 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--05 16:39:16:390 - [31merror[39m: [31mErro Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.nkxe.mongodb.net[39m
+2025--01--08 23:44:59:443 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--08 23:46:03:463 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--09 00:51:28:514 - [31merror[39m: [31merro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2025--01--09 18:46:10:464 - [31merror[39m: [31merro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2025--01--09 20:10:23:104 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--09 20:10:25:104 - [31merror[39m: [31mnao foi possivel concectar![39m
+2025--01--12 01:24:33:240 - [31merror[39m: [31merro no sistema: movie.delete is not a function[39m
+2025--01--25 11:38:42:386 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:37:48:376 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:39:48:396 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:00:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:24:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:32:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:40:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:42:54:426 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:43:16:436 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:43:39:436 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 19:56:25:566 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 20:29:29:296 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 20:32:29:326 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--25 20:33:30:336 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 00:35:32:350 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
