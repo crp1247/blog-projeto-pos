@@ -22,3 +22,5 @@
 2025--01--25 20:32:29:326 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
 2025--01--25 20:33:30:336 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
 2025--01--26 00:35:32:350 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 20:45:26:450 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 20:46:28:460 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m

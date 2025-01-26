@@ -2551,3 +2551,61 @@
 [35m[39m
 2025--01--26 20:44:23:440 - [35mhttp[39m: [35mGET /api/movie 304 - - 27.533 ms[39m
 [35m[39m
+2025--01--26 20:44:23:440 - [35mhttp[39m: [35mGET /api/movie 304 - - 25.872 ms[39m
+[35m[39m
+2025--01--26 20:44:24:440 - [35mhttp[39m: [35mGET /api/movie 304 - - 212.867 ms[39m
+[35m[39m
+2025--01--26 20:44:24:440 - [35mhttp[39m: [35mGET /api/movie 304 - - 23.635 ms[39m
+[35m[39m
+2025--01--26 20:44:31:440 - [35mhttp[39m: [35mGET /api/movie 304 - - 64.989 ms[39m
+[35m[39m
+2025--01--26 20:44:56:440 - [35mhttp[39m: [35mGET /api/movie 304 - - 23.355 ms[39m
+[35m[39m
+2025--01--26 20:45:00:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 25.215 ms[39m
+[35m[39m
+2025--01--26 20:45:04:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 33.013 ms[39m
+[35m[39m
+2025--01--26 20:45:07:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 23.684 ms[39m
+[35m[39m
+2025--01--26 20:45:08:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 22.764 ms[39m
+[35m[39m
+2025--01--26 20:45:09:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 37.672 ms[39m
+[35m[39m
+2025--01--26 20:45:11:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 24.904 ms[39m
+[35m[39m
+2025--01--26 20:45:13:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 31.895 ms[39m
+[35m[39m
+2025--01--26 20:45:18:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 22.933 ms[39m
+[35m[39m
+2025--01--26 20:45:26:450 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 20:45:26:450 - [35mhttp[39m: [35mGET /api/movie/null 500 40 - 13.408 ms[39m
+[35m[39m
+2025--01--26 20:45:28:450 - [35mhttp[39m: [35mGET /api/movie 304 - - 214.753 ms[39m
+[35m[39m
+2025--01--26 20:46:09:460 - [35mhttp[39m: [35mOPTIONS /api/movie 204 0 - 0.313 ms[39m
+[35m[39m
+2025--01--26 20:46:09:460 - [35mhttp[39m: [35mGET /api/movie 304 - - 25.995 ms[39m
+[35m[39m
+2025--01--26 20:46:17:460 - [35mhttp[39m: [35mOPTIONS /api/movie 204 0 - 0.335 ms[39m
+[35m[39m
+2025--01--26 20:46:17:460 - [35mhttp[39m: [35mGET /api/movie 304 - - 364.316 ms[39m
+[35m[39m
+2025--01--26 20:46:28:460 - [35mhttp[39m: [35mOPTIONS /api/movie/null 204 0 - 0.251 ms[39m
+[35m[39m
+2025--01--26 20:46:28:460 - [31merror[39m: [31merro no sistema: Cast to ObjectId failed for value "null" (type string) at path "_id" for model "Movie"[39m
+2025--01--26 20:46:28:460 - [35mhttp[39m: [35mGET /api/movie/null 500 40 - 3.754 ms[39m
+[35m[39m
+2025--01--26 20:46:29:460 - [35mhttp[39m: [35mOPTIONS /api/movie 204 0 - 0.181 ms[39m
+[35m[39m
+2025--01--26 20:46:29:460 - [35mhttp[39m: [35mGET /api/movie 304 - - 31.291 ms[39m
+[35m[39m
+2025--01--26 20:46:39:460 - [35mhttp[39m: [35mOPTIONS /api/movie 204 0 - 0.466 ms[39m
+[35m[39m
+2025--01--26 20:46:39:460 - [35mhttp[39m: [35mGET /api/movie 304 - - 355.545 ms[39m
+[35m[39m
+2025--01--26 20:46:48:460 - [35mhttp[39m: [35mOPTIONS /api/movie 204 0 - 0.192 ms[39m
+[35m[39m
+2025--01--26 20:46:49:460 - [35mhttp[39m: [35mGET /api/movie 304 - - 634.134 ms[39m
+[35m[39m
+2025--01--26 20:46:53:460 - [35mhttp[39m: [35mGET /api/movie 304 - - 23.707 ms[39m
+[35m[39m
